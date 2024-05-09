@@ -42,12 +42,13 @@ while True:
 ```
 ## OUPUT:
  ### CLIENT:
-![image](https://github.com/Sanjuwu21/2b_SLIDING_WINDOW_PROTOCOL/assets/146498969/56ca8378-ddae-4783-a2c9-a9ab10c081db)
+![image](https://github.com/Sanjuwu21/2b_SLIDING_WINDOW_PROTOCOL/assets/146498969/d6038ce7-ed54-4c44-963f-d77f288472e7)
+
 
 
 ### SERVER:
  
-![image](https://github.com/Sanjuwu21/2b_SLIDING_WINDOW_PROTOCOL/assets/146498969/16da0fe6-e572-4008-a136-9bc4e22b223b)
+![image](https://github.com/Sanjuwu21/2b_SLIDING_WINDOW_PROTOCOL/assets/146498969/4ea3b85b-4b91-4706-813b-b910e45d5df2)
 
 
 ## RESULT
